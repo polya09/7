@@ -1,3 +1,1 @@
-void hard() {
-
-}
+void hard();
